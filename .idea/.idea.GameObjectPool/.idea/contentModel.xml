@@ -10,10 +10,12 @@
           <e p="Code" t="Include">
             <e p="Assembly_Damdor.asmdef" t="Include" />
             <e p="GameObjectPool.cs" t="Include" />
+            <e p="PooledObject.cs" t="Include" />
           </e>
           <e p="Tests" t="Include">
             <e p="GameObjectPoolTest.cs" t="Include" />
             <e p="Tests.asmdef" t="Include" />
+            <e p="UnityEventTester.cs" t="Include" />
           </e>
         </e>
       </e>
