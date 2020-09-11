@@ -1,9 +1,9 @@
 {
-    "name": "Tests",
+    "name": "Assembly_GameObjectPool_Test",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "Assembly_Damdor"
+        "Assembly_GameObjectPool"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
